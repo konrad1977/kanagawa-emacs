@@ -1,5 +1,5 @@
 # kanagawa-emacs
-The beautiful theme based on the Kanazawa painting.
+The beautiful theme based on the Kanagawa painting.
 
 ### Dashboard
 ![Dashboard](https://github.com/konrad1977/kanagawa-emacs/blob/main/screenshots/dashboard.png)
